@@ -4,6 +4,8 @@ I'm a Deep Learner who enjoys simplifying complex concepts into short videos.<br
 📫 Email me [here](mailto:kartik.niszoig@gmail.com)<br>
 📝 My [Website](https://kartikchincholikar.github.io)<br>
 
+__________________________________________________________________________________________________________________________________________
+
 ⚡ My Interests:
 - Deep Learning and Data Science
 - Visual Communication
