@@ -1,8 +1,8 @@
 ### Welcome to my life! 👋
-I'm a Deep Learner who enjoys simplifying complex concepts into short videos .
-📝 [Curriculum Vitae](https://kartikchincholikar.github.io/img/RESUME_Kartik_Chincholikar.pdf)
-📫 Email me [here](mailto:kartik.niszoig@gmail.com).
-📝 [Website](https://kartikchincholikar.github.io) to get more info.
+I'm a Deep Learner who enjoys simplifying complex concepts into short videos.<br>
+📝 [Curriculum Vitae](https://kartikchincholikar.github.io/img/RESUME_Kartik_Chincholikar.pdf)<br>
+📫 Email me [here](mailto:kartik.niszoig@gmail.com)<br>
+📝 [Website](https://kartikchincholikar.github.io) to get more info<br>
 <br>
 <br>
 ⚡ My Interests:
