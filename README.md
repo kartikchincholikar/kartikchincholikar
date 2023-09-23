@@ -1,4 +1,4 @@
-### Welcome to my life! 👋
+### Welcome to my life!
 I'm a Deep Learner who enjoys simplifying complex concepts into short videos.<br>
 📝 [Curriculum Vitae](https://kartikchincholikar.github.io/img/RESUME_Kartik_Chincholikar.pdf)<br>
 📫 Email me [here](mailto:kartik.niszoig@gmail.com)<br>
